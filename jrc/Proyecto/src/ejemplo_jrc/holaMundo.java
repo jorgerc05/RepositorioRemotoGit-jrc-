@@ -7,6 +7,9 @@ public class holaMundo {
 		
 		System.out.println("Mensaje 1");
 		System.out.println("Mensaje 2");
+		
+		System.out.println("Mensaje 3");
+		System.out.println("Mensaje 4");
 
 	}
 
